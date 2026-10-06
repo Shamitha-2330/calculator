@@ -2,8 +2,6 @@
 
 A responsive web calculator with a dark neon-glow theme. It supports basic arithmetic, decimals and percentages, and works on both desktop and mobile screens.
 
-**[Live Demo](https://shamitha-2330.github.io/calculator/)**
-
 ![Calculator Screenshot](Screenshot.png)
 
 ## Features
