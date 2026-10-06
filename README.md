@@ -2,7 +2,7 @@
 
 A responsive web calculator with a dark neon-glow theme. It supports basic arithmetic, decimals and percentages, and works on both desktop and mobile screens.
 
-[Calculator Screenshot](Screenshot.png)
+![Calculator Screenshot](screenshot.png)
 
 ## Features
 
